@@ -2,3 +2,4 @@
 food
 place
 city
+singapore
